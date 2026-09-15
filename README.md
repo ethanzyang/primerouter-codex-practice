@@ -1,4 +1,18 @@
-# Codex文件整理练习
+# Codex办公练习：文件整理、Excel合表、PDF转表格
+
+选一个你现在想解决的问题，先看结果，再用无敏感信息的练习资料尝试。
+
+| 你想做什么 | 本例能看见的结果 | 教程与练习资料 |
+| --- | --- | --- |
+| 整理一堆文件，保留同名的两份 | 先预览移动计划，再按文件类型分类；两份内容不同的同名文件都保留 | [图文步骤](https://www.bilibili.com/opus/1246128316523479061) · [下载练习包](https://github.com/ethanzyang/primerouter-codex-practice/releases/tag/practice-2026-09-08-v2) |
+| 把几份销售表合成一张，金额别串列 | 3份表列顺序不同，按表头合并；保留编号、空白金额和每行来源 | [图文步骤](https://www.bilibili.com/opus/1246738077283516417) · [下载练习包](https://github.com/ethanzyang/primerouter-codex-practice/releases/tag/excel-merge-2026-09-11-v1) |
+| 把PDF报价表变成可核对的Excel | 对照同一份报价表的文字版和图片版，检查提取后的金额、空白和出处 | [图文步骤](https://www.bilibili.com/opus/1246912594684411923) · [下载练习包](https://github.com/ethanzyang/primerouter-codex-practice/releases/tag/pdf-table-2026-09-12-v1) |
+
+还没用上Codex：打开[PrimeRouter桌面版安装页（Windows / Mac）](https://www.primerouter.ai/install/codex-desktop?src=github-practice-index-v1)，或先看[完整安装图文](https://www.bilibili.com/opus/1245284359726956560)。装好后选上面一个小练习作为第一件任务。
+
+这些是PrimeRouter运营助手制作的自建练习，含AI辅助，不是客户案例。资料免费；PrimeRouter提供第三方API接入，非OpenAI官方，模型调用按实际使用计费。每份练习的适用范围和操作要求以对应说明为准，不代表任意文件都能自动处理。
+
+## 文件整理练习的具体步骤
 
 [下载完整练习包 practice-v2.zip](https://github.com/ethanzyang/primerouter-codex-practice/releases/download/practice-2026-09-08-v2/practice-v2.zip) · [版本与附件](https://github.com/ethanzyang/primerouter-codex-practice/releases/tag/practice-2026-09-08-v2)
 
