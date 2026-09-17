@@ -1,4 +1,4 @@
-# Codex办公练习：文件整理与表格处理
+# Codex办公练习：文件整理、表格处理与Word排版
 
 选一个你现在想解决的问题，先看结果，再用无敏感信息的练习资料尝试。
 
@@ -8,6 +8,7 @@
 | 把几份销售表合成一张，金额别串列 | 3份表列顺序不同，按表头合并；保留编号、空白金额和每行来源 | [图文步骤](https://www.bilibili.com/opus/1246738077283516417) · [下载练习包](https://github.com/ethanzyang/primerouter-codex-practice/releases/tag/excel-merge-2026-09-11-v1) |
 | 把PDF报价表变成可核对的Excel | 对照同一份报价表的文字版和图片版，检查提取后的金额、空白和出处 | [图文步骤](https://www.bilibili.com/opus/1246912594684411923) · [下载练习包](https://github.com/ethanzyang/primerouter-codex-practice/releases/tag/pdf-table-2026-09-12-v1) |
 | 把订单总表按客户分成独立Excel | 12行分成3份客户文件和1份待核对文件；保留顺序、全部列与前导零 | [图文步骤](https://www.bilibili.com/opus/1248444798547787778) · [下载练习包](https://github.com/ethanzyang/primerouter-codex-practice/releases/tag/customer-split-2026-09-16-v1) |
+| 把横竖图片排成Word附件 | 本例8张自制测试图排成2页Letter文档，保留比例、完整画面与文件名 | [图文步骤](https://www.bilibili.com/opus/1248799940765810692) · [下载练习包](https://github.com/ethanzyang/primerouter-codex-practice/releases/tag/word-image-layout-2026-09-17-v1) |
 
 还没用上Codex：打开[PrimeRouter桌面版安装页（Windows / Mac）](https://www.primerouter.ai/install/codex-desktop?src=github-practice-index-v1)，或先看[完整安装图文](https://www.bilibili.com/opus/1245284359726956560)。装好后选上面一个小练习作为第一件任务。
 
